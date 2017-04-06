@@ -21,4 +21,17 @@ When deployed on Tomcat the root context is:
 
 convex-hull
 
+For a step-by-step demonstration of the Graham Scan algorithm please visit this repository:
+
+https://github.com/dubersfeld/graham-step
+
+For a demonstration of the Jarvis March algorithm please visit this repositories:
+
+https://github.com/dubersfeld/jarvis-step
+
+https://github.com/dubersfeld/jarvis-anim
+
+
+
+
 Dominique Ubersfeld, Cachan, France

@@ -1,6 +1,4 @@
 # graham-anim
-Java based animated demonstration of the Graham Scan algorithm applied to build the convex hull of a points distribution
-
 I present here a Java based demonstration of the Graham Scan algorithm that is used to find the convex hull of a random points distribution.
 
 Javascript is used for display and initialization only. Here are the implementation details:
@@ -17,9 +15,22 @@ This collection is sent to the browser as a JSON object.
 
 The collection is used for animation.
 
-When deployed on Tomcat the root context is:
+# Launching the demo
+To launch the demo run the command `mvn spring-boot:run` in project directory. When the application has started open a browser and hit URL `localhost:8080/convex-hull`
 
-convex-hull
+Here are some screen shots that can be seen during the demo:
+
+After the points distribution was initialized:
+![alt text](images/initPoints.png "Points distribution initialized")
+
+Animation step:
+![alt text](images/animStep.png "Convex hull step")
+
+Animation completed:
+![alt text](images/animCompleted.png "Convex hull completed")
+
+
+
 
 For a step-by-step demonstration of the Graham Scan algorithm please visit this repository:
 

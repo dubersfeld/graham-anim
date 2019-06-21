@@ -29,9 +29,6 @@ Animation step:
 Animation completed:
 ![alt text](images/animCompleted.png "Convex hull completed")
 
-
-
-
 For a step-by-step demonstration of the Graham Scan algorithm please visit this repository:
 
 https://github.com/dubersfeld/graham-step

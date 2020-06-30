@@ -39,7 +39,9 @@ https://github.com/dubersfeld/jarvis-step
 
 https://github.com/dubersfeld/jarvis-anim
 
+For a video demo follow this link:
 
+https://youtu.be/gLt5RVwHRh0
 
 
 Dominique Ubersfeld, Cachan, France
